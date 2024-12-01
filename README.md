@@ -2,9 +2,6 @@
 
 En este repositorio comparto algunas de mis soluciones a los retos de programación del AdventJS, cada solución cuenta con su respectivo set de pruebas.
 
-## Retos
-
-
 ## Instalación del entorno de desarrollo
 
 Para la intalación de los paquetes requeridos, introduce el siguiente comando:
@@ -29,5 +26,5 @@ DAY=n [pnpm yarn] day
 # o
 DAY=n npm run day
 ```
-> [!NOTE]
+> [!IMPORTANT]
 > La definición de la variable de entorno (la declaración de `DAY`), solo funciona en Linux.
