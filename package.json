@@ -1,0 +1,20 @@
+{
+  "name": "AdventJS2024",
+  "version": "1.0.0",
+  "description": "AdventJS challenges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "day": "jest -i challenges/Day$DAY/challenge-$DAY.test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  }
+}
