@@ -35,7 +35,7 @@ const testCases = [
     }
 ];
 
-describe('Reto #14: 🦌 Acomodando los renos', () => {
+describe('Reto #15: ✏️ Dibujando tablag', () => {
 
     describe('Testing that it works 🎯', () => {
         it.each(testCases)('test #$id $description', ({input, output}) => {
